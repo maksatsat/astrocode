@@ -5,3 +5,4 @@
 3. [Python, numpy, matplotlib](lec3.ipynb)
 4. [Генератор пуассоновских событий](lec4.pdf)([Код](lec4.ipynb))
 5. [Генератор периодичного сигнала](lec5.ipynb)([Полезные навыки, cервисы](useful.pdf))
+6. [Поиск периодичностей (Epoch Folding)](lec6.ipynb)
