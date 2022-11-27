@@ -8,3 +8,4 @@
 6. [Поиск периодичностей (Epoch Folding)](lec6.ipynb)
 7. [Работа с FITS файлами и поиск периода Cen X-3](lec7.ipynb)
 8. [Телескопы](lec8.pdf)
+9. [Проект](project.md)
